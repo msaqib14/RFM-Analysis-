@@ -44,4 +44,5 @@ What RFM analysis is ?
 
 Created a comprehensive Tableau dashboard to depict different aspects of the data, including sales distribution, customer distribution by country, sales by year, sales by productline, and revenue by country
 
-[Tableau](https://public.tableau.com/app/profile/mohd.saqib3031/viz/RFMAnalysisDashboard1_16992493959160/RFMDashboard1?publish=yes)
+[RFM Dashboard 1](https://public.tableau.com/app/profile/mohd.saqib3031/viz/RFMAnalysisDashboard1_16992493959160/RFMDashboard1?publish=yes)
+[RFM Dashboard 2](https://public.tableau.com/app/profile/mohd.saqib3031/viz/RFMAnalysisDashboard2_16992494453570/RFMDashboard2?publish=yes)
