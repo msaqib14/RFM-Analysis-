@@ -22,11 +22,11 @@ RFM Analysis was applied to segment customer based on their past purchase behavi
 # RFM Analysis 
 What RFM analysis is ? 
 
- Recency(R): How recently a customer made a pucrhase.
+ - Recency(R): How recently a customer made a pucrhase.
 
- Frequecy(F): How often a customer made a purchase. 
+ - Frequecy(F): How often a customer made a purchase. 
 
- Monetry(M): How much money a customer spend on purchase. 
+ - Monetry(M): How much money a customer spend on purchase. 
 
  ### Who is the best customer ?
 
